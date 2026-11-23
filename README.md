@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/RISHAB3514/DSA_questions/tree/master/0018-4sum) |
+| [0079-word-search](https://github.com/RISHAB3514/DSA_questions/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/RISHAB3514/DSA_questions/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -36,8 +37,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RISHAB3514/DSA_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/RISHAB3514/DSA_questions/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RISHAB3514/DSA_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/RISHAB3514/DSA_questions/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/RISHAB3514/DSA_questions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/RISHAB3514/DSA_questions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
