@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/RISHAB3514/DSA_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/RISHAB3514/DSA_questions/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RISHAB3514/DSA_questions/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/RISHAB3514/DSA_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/RISHAB3514/DSA_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
