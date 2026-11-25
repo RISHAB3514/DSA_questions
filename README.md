@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/RISHAB3514/DSA_questions/tree/master/0018-4sum) |
 | [0079-word-search](https://github.com/RISHAB3514/DSA_questions/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/RISHAB3514/DSA_questions/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/RISHAB3514/DSA_questions/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RISHAB3514/DSA_questions/tree/master/0079-word-search) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RISHAB3514/DSA_questions/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RISHAB3514/DSA_questions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RISHAB3514/DSA_questions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
